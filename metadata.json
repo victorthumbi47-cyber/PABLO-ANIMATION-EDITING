@@ -1,0 +1,8 @@
+{
+  "name": "Copy of PABLO ACTOR 254",
+  "description": "Professional AI video-to-animation transformation suite with high-quality exports and custom styles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
